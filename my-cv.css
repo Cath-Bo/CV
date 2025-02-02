@@ -18,7 +18,7 @@ body {
     font-size: 20px;
 }
 img {
-    scale: 100%;
+    width: 350px;
     border: 2px solid rgb(219, 8, 78);
 }
 .main{
